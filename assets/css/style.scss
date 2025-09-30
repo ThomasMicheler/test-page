@@ -12,3 +12,8 @@ body {
 h1 {
   color: #2a7ae2;
 }
+
+/* Hide the GitHub buttons from the theme */
+a[href*="github.com"] {
+  display: none !important;
+}
