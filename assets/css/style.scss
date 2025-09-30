@@ -12,3 +12,16 @@ body {
 h1 {
   color: #FFffff;
 }
+
+.page-header {
+  padding: 1rem 0;  /* Reduce vertical space (default is ~4-5rem) */
+}
+
+.project-name {
+  font-size: 1.5rem;   /* Make title text smaller (default ~2.25rem) */
+  margin-bottom: 0.3rem;
+}
+
+.project-tagline {
+  font-size: 1rem;     /* Subtitle/tagline smaller */
+}
