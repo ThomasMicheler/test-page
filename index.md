@@ -14,6 +14,6 @@ This site is hosted on **GitHub Pages** using the *jekyll-theme-minimal* theme.
 Check out our custom styling too!
 
 
-# Here’s an image file
+# Here’s a photo of our school building
 
 ![Our School](/assets/images/school.png)
