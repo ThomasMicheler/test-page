@@ -1,1 +1,14 @@
+---
+---
+
 @import "{{ site.theme }}";
+
+/* Custom overrides */
+body {
+  background-color: #f9f9f9;
+  font-family: "Arial", sans-serif;
+}
+
+h1 {
+  color: #2a7ae2;
+}
